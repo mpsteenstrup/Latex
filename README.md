@@ -27,3 +27,18 @@ Et latex dokument er struktureret som en html hjemmeside,
 ## RysensteenTemplate.tex
 Her er en template som I kan og bør bruge hvis I vil klare jer godt, [RysensteenTemplate.tex](https://www.overleaf.com/read/drwzzgdfhsgf
 )
+
+
+
+## Øvelse
+* Lav en kopi af RysensteenTemplate.tex på Overleaf.
+* Rediger i den så får sat dit eget billed ind, skrevet noget tekst og noget matematik.
+* Hen jeres fil ned som PDF.
+
+## Latex cheat sheet
+Det er rart med et cheat sheet og her er et, [A quick guide to LATEX](https://users.dickinson.edu/~richesod/latex/latexcheatsheet.pdf)
+
+# HUSK
+Det er på eget ansvar hvis I vælger at bruge Latex til større skriftlige opgaver. Det virker præcist lige så godt og stabilt som alle andre skriveprogrammer, men I har større erfaring i Word eller google Docs.
+
+SRP skal ikke være den første opgave I skrive i Latex, prøv det af, hvis I kan lide det er så kør på.
